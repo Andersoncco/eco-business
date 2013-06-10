@@ -11,7 +11,6 @@ Aprendi varias ferramentas nao somente no programa de codigos, mas tambem alguma
 - Git
 - HTML 5
 - CSS 3
-
 - Photoshop
 - ferramenta do desenvolvedor do Google Chrome
 - Sublime Text 2
